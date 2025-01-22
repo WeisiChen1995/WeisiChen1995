@@ -9,4 +9,4 @@
 ![Weisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeisiChen1995&show_icons=true&theme=radical) <br>
 
 
-❤️ [Click here to read more about me!](https://weisichen1995.github.io/Weisi_website/)
+❤️ ## [Click here to read more about me!](https://weisichen1995.github.io/Weisi_website/)
