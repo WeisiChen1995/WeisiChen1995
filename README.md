@@ -6,3 +6,5 @@
 🧠 Current interest is in population-level analysis using linked health data <br>
 🌱 In my spare time, I enjoy reading, photography, exploring cities on foot, traveling, learning new things and cherishing moments with family and friends. <br>
 ❤️ [Click here to read more about me!](https://weisichen1995.github.io/Weisi_website/)
+
+![Weisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeisiChen1995&show_icons=true&theme=radical)
