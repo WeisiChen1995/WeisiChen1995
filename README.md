@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Weisi
+## Hi there 👋 I'm Weisi!
 
 👩‍💻 I’m currently a data scientist working at the university of New South Wales (UNSW), Sydney, Australia <br>
 👩‍🎓 Studied pharmacy at the university of Sydney and health data science at the university of New South Wales (UNSW) <br>
