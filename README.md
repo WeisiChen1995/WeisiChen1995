@@ -6,10 +6,10 @@
 🧠 Current interest lies in population-level analysis using linked health data <br>
 🌱 In my spare time, I enjoy reading, photography, exploring cities on foot, traveling, learning new things and cherishing moments with family and friends <br>
 
-![Weisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeisiChen1995&show_icons=true&theme=radical) <br>
-
 ## ❤️ Links
 * [Personal website](https://weisichen1995.github.io/Weisi_website/) <br>
 * [Google scholar](https://scholar.google.com.au/citations?user=iCapTGoAAAAJ&hl=en) <br>
 * [Research Gate](https://www.researchgate.net/profile/Weisi-Chen-3) <br>
 * [LinkedIn](https://www.linkedin.com/in/weisi-chen-000334239/) 
+
+![Weisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeisiChen1995&show_icons=true&theme=radical) <br>
