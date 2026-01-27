@@ -1,6 +1,6 @@
 # **Weisi Chen**
 
-Data Analyst | Health Data Scientist
+Data Analyst
 
 Graduate from the master's in health data science at UNSW. I’m passionate about extracting actionable insights from complex health and medical datasets, with a focus on population-level analysis and linked administrative data. 
 
