@@ -6,12 +6,6 @@ Graduate from the master's in health data science at UNSW. I’m passionate abou
 
 ---
 
-### 📫 Connect with Me
-- LinkedIn: [Weisi Chen](https://www.linkedin.com/in/weisichen/)
-- Email: Weisi.0816@gmail.com
-- Personal Website: [weisichen.org](https://weisichen.org)
----
-
 ### 🌱 Skills & Tools
 - **Programming & Analysis:** R, SAS
 - **Data Visualization:** Power BI, ggplot2, plotly, r shiny
